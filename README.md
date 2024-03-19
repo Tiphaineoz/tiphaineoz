@@ -13,7 +13,7 @@
 📱 WEB Project lead - Airbnb inspired app <a href= "https://dimensional-haul-623e2c8f5718.herokuapp.com/dimensions">Dimensional Haul</a> - this was my first playground in web project management. We created a fun and presentable web page from scratch in just 5 days
 
 <h2> Want to know more? </h2>  
-📄 Here is my <a href="https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">CV</a> if you want to know a bit more about my experience
+📄 Here is my <a href="https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">CV</a> to learn a bit more about my working experience
 
 ⚡ Fun fact about me **I love nature and scuba diving**
 
