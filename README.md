@@ -20,11 +20,11 @@ Thanks to my entrepreneur and client-focus mindset I have a proven track record 
 <h2> 👨‍💻 Want to know more? </h2>  
 📄 Here is my <a href="https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF_2nVYaX8/B-fH_iR0fWjEr2-YPyEz5Q/edit?utm_content=DAF_2nVYaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">CV</a> to learn a bit more about my working experience
 
-⚡ Fun fact about me **I love nature and scuba diving**
+⚡ "Fun" fact about me: I love nature and scuba diving
 
 Connect with me on : <a href="https://linkedin.com/in/tiphaine-ollivier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiphaine-ollivier" height="20" /></a>
-
-<h3 align="left"> 💾 Languages and Tools:</h3>
+ 
+<h2 align="left"> 💾 Languages and Tools:</h2>
 
 <table align="center">
   <tr>
@@ -75,7 +75,7 @@ Connect with me on : <a href="https://linkedin.com/in/tiphaine-ollivier" target=
   </tr>
 </table>  
 
-<h3 align="left"> 📊 Some stats:</h3>
+<h2 align="left"> 📊 Some stats:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiphaineoz&show_icons=true&locale=en&layout=compact" alt="tiphaineoz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiphaineoz&show_icons=true&locale=en" alt="tiphaineoz" /></p>
