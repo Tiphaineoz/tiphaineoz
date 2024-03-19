@@ -1,5 +1,6 @@
 
 <h1 align="center"> ✨ Hi there, I'm Tiphaine </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiphaineoz&label=Profile%20views&color=0e75b6&style=flat" alt="tiphaineoz" /> </p>
 <h3 align="left"> After a dozen years in investment banking 📈, I've embarked on a journey to pivot towards the tech industry. </h3>
 <h3 align="left">  I'm drawn by more innovative spirit 🤖 and am enthusiastic about learning new sets of skills. As such I have followed intensive and hands-on bootcamps in full stack/web developement as well as data science/machine learning/AI.💻 </h3>
 
